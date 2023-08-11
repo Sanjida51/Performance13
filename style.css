@@ -1,0 +1,21 @@
+#p1{
+    font-family: 'Bricolage Grotesque',cursive;
+    font-style: italic;
+    font-size: 40px;
+    font-weight: normal;
+    font-variant: small-caps;
+    
+}
+#p2{
+    font: italic small-caps bold 30px cursive;
+}
+#p3{
+    font-family:'Orbitron',serif;
+}
+.fa-facebook{
+	color:#e61616;
+    font-size: 50px;	
+}
+.fa-heart{
+    font-size: 100px;
+}
